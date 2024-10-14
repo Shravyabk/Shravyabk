@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shravyabk
+- 👋 Hi, I’m Shravya
   
 - 👀 I’m interested in Web Development,Databases,Cloud Technologies,DevOps.....
   
