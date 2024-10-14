@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shravyabk
-- 
+  
 - 👀 I’m interested in Web Development,Databases,Cloud Technologies,DevOps.....
-- 
+  
 - 🌱 I’m currently learning NLP,PyTorch....
 
 - 📫 How to reach me shraavya26@gmail.com
